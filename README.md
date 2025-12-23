@@ -12,5 +12,5 @@ A collection of software projects focused on practical development and problem s
 
 ## How to Run
 
-##Status
+## Status
   Work in progress...
