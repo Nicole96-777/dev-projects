@@ -1,1 +1,2 @@
-jj
+g++ -std=c++17 src/main.cpp -o build/huffman
+
