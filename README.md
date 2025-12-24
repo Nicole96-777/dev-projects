@@ -11,6 +11,17 @@ A collection of software projects focused on practical development and problem s
  - **Tools:** Git Github
  - **Libraries:** Standard Libraries
 
+
+ ## C++
+  - **Huffman Compression** — Lossless text compression using greedy algorithms and binary trees
+  - **Data Structures** — Core data structure implementations (stack, queue, etc.)
+  - **Algorithms** — Sorting and algorithmic problem solving
+
+ ## Python
+  - **Scripts** — Small utilities and tools
+  - **Automation** — Task automation and data collection
+
+
 ## How to Run
 
 ## Status
