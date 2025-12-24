@@ -1,3 +1,6 @@
+/*
+# MIT License. See readme file.
+*/
 #include <iostream>
 #include <string>
 #include <queue>
